@@ -1,4 +1,4 @@
-# npm-path
+# path-to-npm
 
 Get the path of npm according to the PATH environment variable
 
@@ -6,7 +6,7 @@ Get the path of npm according to the PATH environment variable
 
 ```js
 
-var pathToNpm = require('npm-path')();
+var npmLocation = require('path-to-npm')();
 
 ```
 
