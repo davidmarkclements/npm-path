@@ -1,11 +1,19 @@
 {
   "name": "path-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get the path of npm according to the PATH environment variable",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David Mark Clements",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/path-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/path-to-npm/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/path-to-npm#readme"
 }
