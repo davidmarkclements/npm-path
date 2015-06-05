@@ -1,6 +1,6 @@
 {
   "name": "path-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the path of npm according to the PATH environment variable",
   "main": "index.js",
   "scripts": {
